@@ -1,3 +1,8 @@
+---
+layout: post
+title: 9.18.2020
+---
+
 # Summary  
 
 The purpose of this project was to build functions to easily pull data from two APIs containing National Hockey League data. In doing this I created two functions: `nhl_records` and `nhl_stats`. A wrapper function `nhl_data` was also created which called either function and allowed for complete control of all variable options within each function.
